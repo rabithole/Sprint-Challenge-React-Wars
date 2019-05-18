@@ -26,11 +26,20 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+* React is a system of dividing parts of a project into separate workable componenets. Each component is stand alone and can be reused elsewhere for repetition or in another project. 
+* React makes it much easier to dissiminate large amounts of date to the DOM with little work.  
+
 - [ ] What does it mean to _think_ in react?
+
+* This referes to the component nature of React. React uses components that pass around date. Thinking in React is understaind how the components interact with each other.
 
 - [ ] Describe state.
 
+* State is data that is needed to render to the DOM. It can be mutated to adapt to the change of data, and the DOM can be rerendered in turn. 
+
 - [ ] Describe props.
+
+* Props are properties as in Javascript properties. In this case, component properties. They are passed around in reference to the changing data.   
 
 ## Project Set Up
 
