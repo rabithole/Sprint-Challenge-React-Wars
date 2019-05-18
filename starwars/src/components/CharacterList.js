@@ -9,6 +9,12 @@ const CharacterList = props => {
 				<Character 
 				name={item.name}
 				key={item.name}
+				hair_color={item.hair_color}
+				gender={item.gender}
+				height={item.height}
+				skin_color={item.skin_color}
+				species={item.species}
+				birth_year={item.birth_year}
 				/>
 			))}
 		</div>
